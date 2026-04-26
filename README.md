@@ -279,10 +279,8 @@ npm run android
 
 ## 🎥 Demo Video
 
-👉 (Highly recommended)
+```text id="[https://your-video-link.com](https://drive.google.com/file/d/17hCIMyG3gIHDhN3-1rQN6ANT5xkzasvY/view?usp=sharing)"
 
-```text id="video-link"
-[https://your-video-link.com](https://drive.google.com/file/d/17hCIMyG3gIHDhN3-1rQN6ANT5xkzasvY/view?usp=sharing)
 ```
 
 ---
