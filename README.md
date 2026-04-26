@@ -279,7 +279,7 @@ npm run android
 
 ## 🎥 Demo Video
 
-```text id="[https://your-video-link.com](https://drive.google.com/file/d/17hCIMyG3gIHDhN3-1rQN6ANT5xkzasvY/view?usp=sharing)"
+https://drive.google.com/file/d/17hCIMyG3gIHDhN3-1rQN6ANT5xkzasvY/view?usp=sharing
 
 ```
 
