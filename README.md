@@ -20,9 +20,9 @@ Download the APK
 
 Enable installation from unknown sources:
 
-Android 8+: Settings → Apps → Browser → Allow "Install unknown apps"
+**Android 8+:** Settings → Apps → Browser → Allow "Install unknown apps"
 
-Older versions: Settings → Security → Enable "Unknown sources"
+**Older versions:** Settings → Security → Enable "Unknown sources"
 
 Install and launch the app 🎉
 
