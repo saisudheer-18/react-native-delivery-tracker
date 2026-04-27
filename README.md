@@ -312,8 +312,8 @@ Sai Sudheer
 
 ## 🔗 Repository
 
-```text id="repo-link"
-https://github.com/saisudheer-18/react-native-delivery-tracker
+```text id="https://github.com/saisudheer-18/react-native-delivery-tracker"
+
 ```
 
 ---
