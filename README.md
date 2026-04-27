@@ -9,6 +9,23 @@ Built using **Expo, React Navigation, and Context API**, with mock data and simu
 
 ---
 
+#### 📱Demo & Installation
+#### 🔗 Live Build (Android APK)
+👉 https://expo.dev/accounts/saisudheer09/projects/trackflow/builds/28ac7531-99b0-4c65-bfe1-4092c6d8b6df
+
+#### 📦 How to Install
+Open the link on your Android device
+
+Download the APK
+
+Enable installation from unknown sources:
+
+Android 8+: Settings → Apps → Browser → Allow "Install unknown apps"
+
+Older versions: Settings → Security → Enable "Unknown sources"
+
+Install and launch the app 🎉
+
 ## 🎯 Objective
 
 To build a mini delivery system that demonstrates:
